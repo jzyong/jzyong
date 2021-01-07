@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on chengdu
+- 🔭 I’m currently working on chengdu mobile game develop
 - 🌱 I’m currently learning Java,Go,Game
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jzyong)](https://github.com/jzyong/game-server)
 
 <!--
 **jzyong/jzyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
