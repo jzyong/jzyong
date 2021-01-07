@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on chengdu
+- 🌱 I’m currently learning Java,Go,Game
 
 <!--
 **jzyong/jzyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
