@@ -2,7 +2,11 @@
 - 🔭 I’m currently working on chengdu mobile game develop
 - 🌱 I’m currently learning Java,Go,Game
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jzyong)](https://github.com/jzyong/game-server)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jzyong&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jzyong&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jzyong&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jzyong&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jzyong&theme=github)
 
 <!--
 **jzyong/jzyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
