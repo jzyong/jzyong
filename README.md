@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on chengdu mobile game develop
-- 🌱 I’m currently use Java,Go,C#,JavaScript,Unity,Vue3
+- 🌱 I’m currently use Java,Go,C#,TypeScript,Unity,Vue3
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jzyong&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jzyong&theme=github)
